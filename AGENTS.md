@@ -28,6 +28,7 @@ npm pack --dry-run              # before any release that moves files around
 - `src/card.ts` must stay in `files`; the island imports it from the tarball.
 - No runtime dependencies, no CSS, no network calls.
 - Stay inside the `0.1.x` line. The site pins `^0.1.4`, so a minor bump needs a coordinated repin.
+- Follows the TDS quality standard (`../tds-ops/standards/quality.md`): no AI slop, clean code.
 
 ## Topic files
 
