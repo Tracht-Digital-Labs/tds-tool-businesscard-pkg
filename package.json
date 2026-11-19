@@ -1,6 +1,6 @@
 {
   "name": "@tracht-digital-labs/tds-tool-businesscard",
-  "version": "0.1.6",
+  "version": "0.1.7",
   "description": "Business-card designer tool package for the TDS tools platform (tds-tools). Client-side card preview and 300 dpi PNG export.",
   "license": "UNLICENSED",
   "private": false,
