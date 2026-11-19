@@ -1,7 +1,7 @@
 # AGENTS.md — tds-tool-businesscard-pkg
 
 Tool pack for the public tools platform with one tool, the Visitenkarten-Designer.
-It builds against `@tracht-digital-solutions/tds-tools-contract` and is composed into
+It builds against `@tracht-digital-labs/tds-tools-contract` and is composed into
 `tds-tools-frontend` at build time. Nothing leaves the browser: no upload, no account,
 no network call.
 

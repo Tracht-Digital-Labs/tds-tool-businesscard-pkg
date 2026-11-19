@@ -1,4 +1,4 @@
-import { defineToolPack, defineTool } from "@tracht-digital-solutions/tds-tools-contract";
+import { defineToolPack, defineTool } from "@tracht-digital-labs/tds-tools-contract";
 
 export * from "./card";
 
@@ -21,7 +21,7 @@ export default defineToolPack({
         "Gestalte eine Visitenkarte im Browser: Farbe, Ecken, Schatten und Aufteilung ändern und sofort sehen, wie sie aussieht. Download als PNG in Druckauflösung.",
       icon: "id-card",
       keywords: ["visitenkarte", "designer", "vorschau", "druck", "business card", "png"],
-      component: "@tracht-digital-solutions/tds-tool-businesscard/tools/CardDesigner.astro",
+      component: "@tracht-digital-labs/tds-tool-businesscard/tools/CardDesigner.astro",
       seo: {
         title: "Visitenkarten-Designer, gestalten und als PNG herunterladen",
         description:

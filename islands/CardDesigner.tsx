@@ -15,7 +15,7 @@ import {
   type CardSpec,
   type CardSurface,
 } from "../src/card";
-import { downloadUrl } from "@tracht-digital-solutions/tds-shared/download";
+import { downloadUrl } from "@tracht-digital-labs/tds-shared/download";
 
 /** See the tools-site convention: labels are translated, logic is not. */
 type Lang = "de" | "en";

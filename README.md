@@ -10,13 +10,13 @@ nichts verlässt die Seite.
 ## Installation
 
 ```bash
-npm install @tracht-digital-solutions/tds-tool-businesscard
+npm install @tracht-digital-labs/tds-tool-businesscard
 ```
 
 Im Werkzeug-Site-Katalog registrieren wie jeden anderen Pack:
 
 ```ts
-import businesscard from "@tracht-digital-solutions/tds-tool-businesscard";
+import businesscard from "@tracht-digital-labs/tds-tool-businesscard";
 
 composeToolPacks([/* … */, businesscard]);
 ```
